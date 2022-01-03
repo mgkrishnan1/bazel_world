@@ -11,7 +11,7 @@ setuptools.setup(
     description="A function that returns 'world'",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/mgkrishnan1/bazel_world",
+    url="https://github.com/mgkrishnan1/bazel_world/bazel_world/coverage-6.2-cp37-cp37m-win_amd64.whl",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
