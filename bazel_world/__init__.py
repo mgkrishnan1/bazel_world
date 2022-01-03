@@ -1,0 +1,2 @@
+name = "bazel_world"
+
